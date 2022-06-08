@@ -1,13 +1,11 @@
 /* Page Section Styles */
 html,
 body {
+  display: block;
   margin: 0;
   padding: 0;
   text-align: center;
   background: url("./images/tOhBZQr.jpeg");
-  /*background-repeat: inherit;*/
-  /*background-size: 100% 100%;*/
-  /*min-height: 100vh;*/
   position: relative;
   color: saddlebrown;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -17,11 +15,6 @@ body {
 main {
   margin: 0 10px;
 }
-
-/*section {
-  border: 1px dashed saddlebrown;
-  padding: 10px;
-}*/
 
 section .listType {
   display: inline-block;
@@ -79,7 +72,8 @@ body::after {
   height: 150px;
 }
 #leftDiv {
-  float: left;
+  float:left;
+  text-align: center;
 }
 
 #rightDiv {
