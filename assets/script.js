@@ -1,14 +1,14 @@
-var uditNarayan= ["Pal Pal Soch Mein Aana Na","Tujhko na Dekhun Toh","Pyar ki Kashti Mein"]
+var uditNarayan= ["Pal Pal Soch Mein Aana Na","Tujhko na Dekhun Toh","Pyar ki Kashti Mein","Ruk Jaa O Dil Deewane"]
 
-var abhijeet = ["Tumhe Jo Maine Dekha","Pyar Ke Kagaz Pe Dil Ki Kalam","Badi Mushkil Hai Khoya Mera Dil Hai","Hum Nahin Tere Dushmano Mein","Ole Ole"]
+var abhijeet = ["Tumhe Jo Maine Dekha","Pyar Ke Kagaz Pe Dil Ki Kalam","Badi Mushkil Hai Khoya Mera Dil Hai","Hum Nahin Tere Dushmano Mein","Ole Ole","Badshah o Badshah"]
 
 var kumarSanu = ["Is Tarah Ashique ka","Mera Chand Mujhe Aaya Nazar","Jab se Mein Tujhse Mila Hoon",
-"Humko Tumse Pyar Hai","Kitna Pyar Tumhe Karte Hai","Pucho Zara Pucho","Kitni Kasrat Hai Humein","Mere Khwaabon Mein Tu","Dil Deewana Dhoondta Hai"]
+"Humko Tumse Pyar Hai","Kitna Pyar Tumhe Karte Hai","Pucho Zara Pucho","Kitni Kasrat Hai Humein","Mere Khwaabon Mein Tu","Dil Deewana Dhoondta Hai","O Lal Dupatte Wali"]
 
 var sonuNigam = ["Jal Jal Ke Dhuan","Ishq Hai Kya","Dard","Chain Ho Chain Ho Mere Dil Ka","Apnaa Mujhe Tu Lagaa","Dil Mein Jo Baat"]
 
 var arijitSingh = ["Khairiyat","Jeene Bhi De","Aa Raat Bhar","Tu Har Lamha","Baatein ye Kabhi Na","Suno Na Sangemarmar",
-"Chahun Main Ya Na","Mera Pyar Tera Pyar","Hai Dil Ye Mera"]
+"Chahun Main Ya Na","Mera Pyar Tera Pyar","Hai Dil Ye Mera","Aashique Aa Gayi","Tumse Bhi Zyada"]
 
 var bennyDayal =["Aadat se Majboor","Lat Lag GAyee","Badtameez Dil"]
 
@@ -20,14 +20,14 @@ var sayeedQuadri = ["Lambi Judaai"]
 
 var adnanSami = ["Bheegi Bheegi Raaton Mein","Sun Zara","Jaan Meri jaa Rahi Sanam",""]
 
-var jubinNautiyal = ["Tum hi Aana","Humnava Mere","Baarsaat Ki Dhun","Lut Gaye",]
+var jubinNautiyal = ["Tum hi Aana","Humnava Mere","Baarsaat Ki Dhun","Lut Gaye","Meri Zindagi hai Tu",""]
 
 var tauseef = ["Chand Taare Phool Shabnam"]
 
 var kk = ["O Humdum Suniyo Re","Abhi Abhi Tho Mile Ho","Labon Ko","Dil Ibadat","Zara sa","Khuda Jane","Aankhon Mein Teri ","Beete Lamhein","Labon KoSach Keh Raha Hai Deewana","Soniye","Dil kyun yeh mera","Kya mujhe pyar hai","Sajde","Tune Maari Entriyaan","Dilnashin Dilnashin","Zindagi Do Pal Ki","Awaarapan Banjarapan"]
 
 var funnySongs = ["Stop That","Loveria","Kusu Kusu","Sharara Sharara","Ek Do Teen Male","Ranu Ranu Telugu","Tu Isaq Mera","Taiyabali Pyar Ka Dushman","Bade Kaam Ka Bandar","Mere Angne Mein Tumhara Kya Kaam Hai","Oo Antava","Daiya Daiya Re","Laila Mein Laila","Yamma Yamma",
-"Romeo Naam Mera","Aadat Se Majboor","Batamiz Dil","Dus Bahane","Tune Maari Entriyaan"]
+"Romeo Naam Mera","Aadat Se Majboor","Batamiz Dil","Dus Bahane","Tune Maari Entriyaan","Nashe Si Chadh Gayi","Tan Tana Tan","Oonchi hai Building","O Lal Dupatte Wali","Khaike Paan Banaras Wala"]
 
 var vinodRathor =["Romeo Naam Mera"]
 
